@@ -3,3 +3,4 @@ learning to use git for the first time
 testing the git commit opening in new tab
 
 test with new computer
+test git commit opening in new tab for new computer
